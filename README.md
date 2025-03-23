@@ -29,6 +29,8 @@ python redis_cache_assignment.py
 📸 Screenshots
 
 Create a folder called screenshots in your project directory and save your images there.
+```
+
 
 ## 📥 Python Output Screenshot
 
