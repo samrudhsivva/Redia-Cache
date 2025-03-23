@@ -1,5 +1,5 @@
 📄 Updated README.md
-# CMPE272 - Redis Cache Assignment
+# CMPE273 - Redis Cache Assignment
 
 ## 🎯 Objective
 Use Redis to cache application data and demonstrate insert & retrieve operations using Python.
